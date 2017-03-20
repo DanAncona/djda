@@ -1,0 +1,242 @@
+>> General Resume for Dan Ancona
+
+Daniel F. Ancona, IV
+3830 19th St. Apt. E
+San Francisco, CA 94114
+
+415.373.8972 cell
+415.864.2409 home
+
+da {at} simplerevolutions {dot} com
+
+>> Synopsis
+
+Software engineer and technologist with excellent communication
+skills and diverse research, development, political and entrepreneurial
+experience seeks new challenges combining these interests.
+
+
+>> Summary of Technical Skills
+
+    . broad software applications development and expertise
+    . web application experience in django, node.js and jQuery
+    . user testing and application of lean startup techniques
+    . cloud deployment to Amazon Web Services (AWS) & heroku
+    . evangelism, technical sales and some product management experience
+    . platform experience across unix, windows & scripting environments
+    . graphics and visualization programming in OpenGL, Direct3D, etc.
+    . research focus of visualization design and implementation
+    . GIS mapping and programming via ESRI ArcObjects and geodjango
+    . preferred languages: python, vb/vb.net, c/c++, c#, java and perl
+    . some layout and graphic design, in print and online
+
+
+>> Experience
+
+Democracy for America: Web and Data Engineer (April 2013 to August 2013)
+    . Started transition to lean development
+    . Reporting for lifetime value and customer development
+    . Created personas and implemented first round of live user testing
+    . Maintenance and feature development of Ruby on Rails main site
+    . ActionKit reporting and template set development
+    . Mobile responsive design
+
+Let's Date: Data Scientist (October 2012 to February 2013)
+    . built python/bigml based machine learning back end in three weeks	
+    . some neo4j and node.js hacking
+
+Simple Revolutions: Founder (February 2008 to present)
+    http://demdash.us/ (site currently on hold)
+    . designed and implemented first version of new django-based
+      organizing platform, Democracy Dashboard
+    . project accepted into the Hub Ventures social venture accelerator
+    . coordinated all other early-stage startup activities, from UX testing
+      to cloud (AWS) deployment
+      
+Client: Citizen Engagement Lab (May-June 2012)
+    . django on heroku contracting
+
+Client: The Agenda Project (December 2011 to May 2012)
+    . Evangelism of progressive movement-wide Yammer network
+    . Built a Yammer/FaceBook multi-post tool
+
+Client: TargetSmart Communications (May 2011 to October 2011)
+    . SmartVAN sales and support
+
+California VoterConnect: Project Director (July 2006 to May 2011)
+    San Francisco, California
+    . wrote successful funding proposal
+    . designed and executed vendor evaluation process
+    . ran support, training and outreach activities
+    . wrote c# voter matching & data validation tools
+    . responsible for ongoing strategic direction
+    . delivered data to 120+ active campaigns and orgs in 2008
+
+Planet 9 Studios: Software Engineer (May 2004 to July 2006)
+    San Francisco, California
+    . refined windows SDK based c++/vrml UAV control client app
+    . added features to and maintained various c++ applications
+    . created demos, including a spatial hypertext 3D RSS reader
+    . managed customer interactions and expectations
+    . created 3D front end for historical art site
+    . wrote ruby on rails based geofeeder web application
+
+Alexandria Digital Library: Research Staff (May 2001 to December 2004)
+    University of California, Santa Barbara
+    http://www.alexandria.ucsb.edu/
+    . wrote c driver to enable library protocol in java middleware
+    . wrote OpenGL based concept space graph visualization application 
+    . wrote Visual Basic/ESRI ArcObjects client for p2p digital library
+    . tracked and updated projects against multiple moving codebases
+    . created working mockup of lecture presentation environment in VB
+    . mocked up possible visualization-based library interfaces
+    . adapted c++ terrain visualization program to digital library
+
+Playspace, Inc.: Technical Producer (January 2004 to present)
+    Santa Barbara, California
+    http://www.playspace.com/
+    . helped with all aspects of early-stage game technology company
+    . designed and implemented c++/OpenGL technical demo
+    . presented demo and company story to potential investors
+    . helped create and edit plans, presentations and whitepapers
+
+Vizbang Software: Founder (July 2000 to January 2001)
+    Berkeley, California (website no longer available)
+    . wrote XML/Direct3D based visualization engine
+    . outlined initial stage communications strategy
+    . formulated initial product designs
+    . developed pitch and business plan, and sought funding
+    . numerous other early stage startup tasks
+
+Critical Path, Inc.: Programmer (January 1999 to July 2000)
+    San Francisco, California (website no longer available)
+    . developed web applications in object oriented perl environment
+    . worked with internal customers to capture features of product
+    . generated UML based object architecture
+    . implemented and rolled out reporting database UI in five months
+    . lost shirt when company became #2 in total post-boom shareholder
+        lawsuits (after Enron)
+
+Intervista Software: Systems Engineer (July 1997 to December 1998)
+    San Francisco, California
+    . supported pre- and post-sales efforts for family of 3D products
+    . created demonstrations and communicated with customers
+    . evangelized company's products in visualization community
+    . designed XML based Visual Basic application
+    . handled email tech support and beta program management
+    . wrote whitepaper and entry for design contest
+
+Institute for Advanced Technology in the Humanities: Research Staff
+   (Fall 1994 to June 1996 part time, then to July 1997 full time)
+   University of Virginia, Charlottesville, Virginia
+   http://www.iath.virginia.edu/
+   . designed 3D interfaces for diverse humanities-related projects
+   . created abstract, urban and hypertext experimental visualizations
+   . set up project architectures and goals
+   . purchased equipment, created initial web site, managed budget
+
+National Renewable Energy Laboratory: Research Internship (Summer 1994)
+   Golden, Colorado - http://www.nrel.org/
+   . evaluated current lighting system of federal buildings
+   . used expert system to propose energy efficient alternatives
+   . $300k project approved for funding based on study results
+   . used open source ray-tracing program to visualize lighting systems
+   . published results on the just-created world wide web
+
+David Taylor Naval Research Center: Research Internship
+   (summers of 1990, 1991 and 1992, and part time through 1991)
+   Carderock, Maryland
+   . helped wind-tunnel test and CAD model Olympic bobsleds
+   . assisted in neural network fatigue rate prediction study
+
+
+>> Political & Community Organization Experience
+
+Project Director: California VoterConnect (2006 - present)
+
+Co-founder: Speak Out California (2003 - 2005)
+  Santa Barbara, California
+
+Media Chair: Santa Barbara County Democratic Central Committee
+  (December 2002 - March 2005)
+
+Field Director, SB Democratic Service Club
+  (April 2003 - March 2005)
+
+Volunteer Organizer, Santa Barbara for Dean
+  (March 2003 to January 2004)
+
+Board member, Santa Barbara Community Activist Network
+  (December 2003 to March 2005)
+  http://sbcan.org/
+
+Numerous field campaign volunteer positions
+
+
+>> Writing
+
+Personal site, for recent writing and links to key published posts
+    http://danancona.blogspot.com/
+
+Guest Contributor at the Drum Major Institute Weblog
+   http://www.dmiblog.com/archives/authors/85.html
+
+Occasional author at Speak Out California, with a focus on
+foundations of progressivism and progressive economics
+   (website no longer available)
+
+Creator of and writer for "Heeyah!", the first weblog for any
+Democratic Party County Central Committee
+   http://sbdems.blogspot.com/
+   
+Was referred to as "bro" by Third Way once
+    http://twitter.com/ThirdWayTweet/status/8204447618
+
+
+>> Publications
+
+"Accessing the Alexandria Digital Library from Geographic Information
+Systems," with J.Frew, G.Janee, and D.Valentine.  Proceedings of the
+Fourth ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL 2004),
+Tucson, AZ, June 7-11, 2004.
+
+"Visual Explorations for the Alexandria Digital Earth Prototype," with
+S. Fabrikant, M. Freeston and T. Smith.  Expanded and submitted as a
+chapter in the Springer-Verlag _Lecture Notes in Computer Science
+Series_.  Fall 2002.
+
+"Use Scenarios in the Development of the Alexandria Digital Earth
+Prototype," Gazan, R., Leazer, G. H., Borgman, C. L.,
+Gilliland-Swetland, A. J., Smart, L., Ancona, D., et al. (2003).
+Paper presented at the American Society for Information Science &
+Technology Annual Meeting, Long Beach, CA.
+
+"Visual Explorations for the Alexandria Digital Earth Prototype," with
+T. Smith.  Presented at the Visual Interfaces to Digital Libraries
+workshop at the 2002 Joint Conference on Digital Libraries.  Summer 2002.
+
+"Using Perl and the LOD Node in VRML Environments," chapter in _VRML:
+Special Edition_, published by Que.  Feb 1996.
+
+
+>> Education
+
+University of Virginia,  Charlottesville, Virginia
+   B.S. Electrical Engineering, concentration in Applied Electrophysics.
+   August 1993 to May 1996
+   Thesis: "Invisible City: Mapping the World Wide Web in Three
+       Dimensions."
+   Final year GPA 3.6
+
+Virginia Polytechnic Institute and State University, Blacksburg, Virginia
+   Preliminary work in Engineering, Science and Mechanics
+   August 1991 to June 1993
+
+Thomas Jefferson High School for Science and Technology
+   Alexandria, Virginia
+   Class of 1991
+
+
+>> Interests
+
+music (DJing), photography, skiing, sailing, cooking
