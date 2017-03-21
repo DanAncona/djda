@@ -1,3 +1,6 @@
+---
+path: /djda
+---
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -91,83 +94,35 @@
   <!--PORTFOLIO DESCRIPTION -->
   <div class="container desc">
 
-    <div class="row">
+<!--     <div class="row">
       <div class="col-lg-2 col-lg-offset-1">
         <h5>2016</h5>
       </div>
     </div>
+ -->
+
+ <div markdown="1">
+    {% for set in site.data.sets %}
 
     <div class="row">
       <div class="col-lg-6 col-lg-offset-3">
-        <p><img class="img-responsive" src="/assets/img/quintessence.jpg" alt=""></p>
+        <p><img class="img-responsive" src="{{set.img}}" alt=""></p>
       </div>
 
       <div class="col-lg-3">
-        <p style="margin-bottom: 5px">QUINTESSENCE</p>
-        <p style="margin-top: 5px">June 02016. Another lovely evening in Oakland. Nearly two and a half hours!</p>
+        <p style="margin-bottom: 5px">{{set.title}}</p>
+        <p style="margin-top: 5px">{{set.date}} {{set.year}}. {{set.desc}}</p>
 
         <div class="ui360">
-         <a href="/sets/QuintEssence-June02016-djda.mp3"></a>
+         <a href="{{set.mp3}}"></a>
         </div>
-        <a href="/sets/QuintEssence-June02016-djda.mp3 ">download</a><br/>
-        <sm><i class="icon-tag"></i> crunchy organic breaks and smoochie love bass into emo house</sm>
+        <a href="{{set.mp3}}">download</a><br/>
+        {% if set.tags %}<sm><i class="icon-tag"></i>{{set.tags}}</sm>{% endif %}
       </div>
     </div>
 
-    <div class="row">
-      <div class="col-lg-6 col-lg-offset-3">
-        <p><img class="img-responsive" src="/assets/img/bigasscrystal.jpg" alt=""></p>
-      </div>
-
-      <div class="col-lg-3">
-        <p style="margin-bottom: 5px">CONNECT DANCE LOVE</p>
-        <p style="margin-top: 5px">April 02016. A nice evening party in Oakland. RIP Prince.</p>
-
-        <div class="ui360">
-         <a href="/sets/ConnectDanceLove-djda-April02016.mp3"></a>
-        </div>
-        <a href="/sets/ConnectDanceLove-djda-April02016.mp3">download</a><br/>
-        <sm><i class="icon-tag"></i> acoustic elements, crunchy in places</sm>
-      </div>
-    </div>
-
-    <div class="row">
-      <div class="col-lg-6 col-lg-offset-3">
-        <p><img class="img-responsive" src="/assets/img/jra41.jpg" alt=""></p>
-      </div>
-
-      <div class="col-lg-3">
-        <p style="margin-bottom: 5px">JEN 41</p>
-        <p style="margin-top: 5px">February 02016. Soundtrack for Jen's birthday party.</p>
-
-        <div class="ui360">
-         <a href="/sets/Jen41-6Feb02016-djda.mp3"></a>
-        </div>
-        <a href="/sets/Jen41-6Feb02016-djda.mp3">download</a><br/>
-        <sm><i class="icon-tag"></i> smooth, groovy and sexy</sm>
-      </div>
-    </div>
-
-    <div class="row">
-      <div class="col-lg-2 col-lg-offset-1">
-        <h5>2015</h5>
-      </div>
-
-      <div class="col-lg-6">
-        <p><img class="img-responsive" src="/assets/img/foggy.jpg" alt=""></p>
-      </div>
-
-      <div class="col-lg-3">
-        <p style="margin-bottom: 5px">SEA OF DREAMS</p>
-        <p style="margin-top: 5px">November 02015. Soundtrack for a lovely evening party in the Woodside Hills.</p>
-
-        <div class="ui360">
-         <a href="/sets/SeaOfDreams-Nov02015-djda.mp3"></a>
-        </div>
-        <a href="/sets/SeaOfDreams-Nov02015-djda.mp3">download</a> | <a href="SeaOfDreams.html">setlist</a><br/>
-        <sm><i class="icon-tag"></i> emo house into smoochie love bass</sm>
-      </div>
-    </div>
+    {% endfor %}
+</div>
 
     <div class="row">
       <div class="col-lg-6 col-lg-offset-3">

@@ -1,41 +1,46 @@
 - title: CONNECT DANCE LOVE
-  year: 02017
+  year: 2017
   date: March 18
-  desc: Pretty floaty stuff into breaks and electroswing into a little funky house into some smoochie love bass type stuff. And, uh, some Led Zeppelin, somehow.
+  desc: Pretty, floaty stuff into breaks and electroswing into a little funky house into some smoochie love bass. And some Led Zeppelin, somehow.
+  img: 
   mp3: /sets/02017/CDL-18March02017-djda.mp3
 
 - title: YxYY16
-  year: 02106
+  desc: Buttery smooth poolside sounds.
+  year: 2016
   date: 9 July
   mp3: /sets/YxYY16Pool-9July02016-djda.mp3
 
 - title: QUINTESSENCE
-  year: 02016
-  date: June 02016
+  year: 2016
+  date: June
   desc: Another lovely evening in Oakland. Nearly two and a half hours!
-  img:
+  img: /assets/img/quintessence.jpg
   mp3: /sets/QuintEssence-June02016-djda.mp3
   tags: crunchy organic breakss, smoochie love bass, emo house
   size: 
 
 - title: CONNECT DANCE LOVE
-  year: 02016
-  date: April 02016
+  year: 2016
+  date: April
   desc: A nice evening party in Oakland. RIP Prince.
+  img: /assets/img/bigasscrystal.jpg
   tags: acoustic elements, crunchy in places
   mp3: /sets/ConnectDanceLove-djda-April02016.mp3
 
 - title: JEN 41
-  year: 02016
-  date: February 02016
+  year: 2016
+  date: February
   desc: Soundtrack for Jen's birthday party. The last time I got to enjoy music with my good friend Dan, who died a few months later.
   tags: smooth, groovy and sexy
+  img: /assets/img/jra41.jpg
   setlist: /sets/Jen40AsPlayed.html
   sets: /sets/Jen41-6Feb02016-djda.mp3
 
 - title: SEA OF DREAMS
   date: November
-  year: 02015
+  year: 2015
+  img: /assets/img/foggy.jpg
   desc: Soundtrack for a lovely evening party in the Woodside Hills.
   setlist: /djda/SeaOfDreams.html
   tags: emo house into smoochie love bass
