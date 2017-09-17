@@ -30,3 +30,11 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+page_gen:
+  - data: 'sets'
+    template: 'sets'
+    name: title
+    dir: 'djda/sets'
+    #extension: <<extension used to generate the filename>>
+    #filter: <<property to filter data records by>>

@@ -51,7 +51,6 @@ path: /djda
     <meta property="og:image" content="http://simplerevolutions.com/djda/shiva-nottoolarge.jpg" />
     <meta property="og:url" content="http://simplerevolutions.com/djda/" />
 
-
     </style>
 
   </head>
@@ -64,12 +63,8 @@ path: /djda
         <div class="row">
           <div class="dropdown">
             <ul id="nav" class="nav">
-              <li class="menu-item"><a href="/"><i class="icon-chevron-left"></i></a></ul>
-<!--              <li class="menu-item"><a class="smoothScroll" href="#about" title="About"><i class="icon-user"></i></a></li>
-              <li class="menu-item"><a class="smoothScroll" href="#resume" title="Resume"><i class="icon-file"></i></a></li>
-              <li class="menu-item"><a class="smoothScroll" href="#work" title="Works"><i class="icon-briefcase"></i></a></li>
-              <li class="menu-item"><a class="smoothScroll" href="#contact" title="Contact"><i class="icon-envelope"></i></a></li>
- -->            </ul><!--/ uL#nav -->
+              <li class="menu-item"><a href="/"><i class="icon-home"></i></a>
+            </ul><!--/ uL#nav -->
           </div><!-- /.dropdown -->
 
           <div class="clear"></div>
@@ -110,7 +105,7 @@ path: /djda
       </div>
 
       <div class="col-lg-3">
-        <p style="margin-bottom: 5px">{{set.title}}</p>
+        <p style="margin-bottom: 5px"><a href="/djda/sets/{{set.title | slugify}}.html">{{set.title}}</a></p>
         <p style="margin-top: 5px">{{set.date}} {{set.year}}. {{set.desc}}</p>
 
         <div class="ui360">
@@ -118,6 +113,7 @@ path: /djda
         </div>
         <a href="{{set.mp3}}">download</a><br/>
         {% if set.tags %}<sm><i class="icon-tag"></i>{{set.tags}}</sm>{% endif %}
+        <br/>
       </div>
     </div>
 
@@ -310,9 +306,6 @@ path: /djda
           <p><t>Geo</t><br/>
             Oakland, California. <br/>
             USA <br/>
-          </p>
-          <p><t>Phone</t><br/>
-            415.373.8972 <br/>
           </p>
         </div>
         <div class="col-lg-3">
