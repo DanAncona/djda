@@ -38,3 +38,5 @@ page_gen:
     dir: 'djda/sets'
     #extension: <<extension used to generate the filename>>
     #filter: <<property to filter data records by>>
+
+permalink: pretty
