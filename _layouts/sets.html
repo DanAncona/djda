@@ -110,12 +110,14 @@ path: /djda
 
       <div class="col-lg-3">
         <p style="margin-bottom: 5px">{{page.title}}</p>
-        <p style="margin-top: 5px">{{page.date}} {{page.year}}. {{page.desc|markdownify}}</p>
 
         <div class="ui360">
          <a href="{{page.mp3}}"></a>
         </div>
-        <a href="{{page.mp3}}">download</a><br/>
+        <a href="{{page.mp3}}">download</a>{% if page.size %} [{{page.size}} Mb]{% endif %}<br/>
+
+        <p style="margin-top: 5px">{{page.date}} {{page.year}} {{page.desc|markdownify}}</p>
+
         {% if page.tags %}<sm><i class="icon-tag"></i>{{page.tags}}</sm>{% endif %}
       </div>
     </div>
