@@ -183,13 +183,23 @@ a:after {
 	color: white;
 }
 
+#postheader h1 {
+  font-size: 60px;
+  color: white;
+}
+
+#postheader h3 {
+  font-size: 20px;
+  color: white;
+}
+
 /* Intnro Wrap */
 
 #intro {
 	background: #DFFF6D;
 	padding-top: 60px;
 	padding-bottom: 60px;
-	color: #DFFF6D;
+	/*color: #DFFF6D;*/
 } 
 
 #intro h5, p {
