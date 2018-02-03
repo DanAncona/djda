@@ -6,6 +6,11 @@
  * URL: http://blacktie.co
  */
 
+/* local edits */
+.blogimg {width: 100%;}
+.caption {margin-top: -20px; margin-bottom: 20px;}
+
+
 body {
   background-color: #f2f2f2;
     font-family: "Lato";
@@ -23,7 +28,6 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
     color: #333;
 }
-
 
 /* Paragraph & Typographic */
 p {
