@@ -70,16 +70,15 @@ Forget, for a second, what you think everyone else wants or what it will take to
 ![]({{"/assets/img/blog/deepwater.jpg" | absolute_url}}){:.blogimg}
 <center>Let's build the opposite of this, ok?</center>{:.caption}
 
-This isn’t all of it, but it’s a start:
+This isn’t all of it, but it’s a start. In my book I call it Democratized Capitalism, but it's not so different from social democracy -
 
-
-* Vigorous, immediate, job-creating action on climate change and strong environmental protections.
 * Strengthening and updating the safety net to reflect the realities of the new economy. (Updating does NOT mean privatizing - it has to look like some variant of Nordic-style flexicurity, portable benefits, etc)
 * Creating good jobs and turning the tide on inequality not just by raising the minimum wage and providing basic income, but by democratizing power in workplaces via unions, employee ownership and co-ops.
 * Going beyond just ending college debt: big public investments in art, education at all levels, and basic research.
 * Demilitarizing the police and the border
 * Further decriminalization of weed, and potentially other drugs, and aggressively providing treatment starting with the opioid crisis.
 * True energy independence, built on renewables.
+* Vigorous, immediate, job-creating action on climate change and strong environmental protections.
 * Decreasing spending on weapons systems and the incredible amounts of Pentagon waste, while increasing care for veterans.
 * Vigorous action on gun safety and massacre prevention: gun insurance, background checks, training requirements, enforcing existing laws around domestic violence.
 * Real policies to help families: guaranteed family leave, shorter work weeks.
