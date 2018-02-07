@@ -91,36 +91,33 @@ This isn’t all of it, but it’s a start. In my book I call it Democratized Ca
 Good news! That’s totally a winning agenda. It may be past where the Dems are at, but, even if they pick a couple of those issues to start with, that’d be a fine start. And while we’ve seen how American voters are susceptible to manipulation, they also have a strong sense they’ve been sold a bill of goods by Trump and his cronies. They know that looting the treasury to firehose money at the rich won’t make out country better, even if it does pump up the stock market briefly. There’s a vocal minority that hates immigrants, but far, far more pople that know that heartless crackdowns on immigrants won’t deliver this. Racist ranting at football player kneeling before the flag won’t fix this.
 
 
-## Is our Democracy Going to Die?
+## Is American Democracy Toast?
 
 There’s been a lot of posting of ope-eds and talk about Steven Levitsky and Daniel Ziblatt’s new book, How Democracies Die. This excerpt of it, sort of the bottom line, is from [Ezra Klein’s Vox summary](https://www.vox.com/policy-and-politics/2018/2/2/16929764/how-democracies-die-trump-book-levitsky-ziblatt): 
 
 > The simple fact of the matter is that the world has never built a multiethnic democracy in which no particular ethnic group is in the majority and where political equality, social equality and economies that empower all have been achieved.
 
-My first thought when I read this is - no, that’s not quite right. Or at least it’s not quite not quite right, because you could say that a lot of big cities have made pretty good progress on exactly that, and here in California we have at least started to lay the foundation for exactly that kind of mulit-ethnic democracy with a functional and inclusive economy at the state level. It’s only the foundation - hi there, 20% poverty rate, rampant homelessness and carbon emissions that are still way too high! - but at least we have some measure of agreement on what the real problems are, and, post prop 187, that they’re not going to be solved by blaming brown people.
+But, that's not quite right. Or at least, it’s not quite not quite right, because you could say that a lot of big cities have made pretty good progress on exactly that, and here in California we have at least started to lay the foundation for exactly that kind of mulit-ethnic democracy with a functional and inclusive economy at the state level. It’s only the foundation - hi there, 20% poverty rate, rampant homelessness, ongoing police accountability problems, carbon emissions that are still way too high, and so on - but at least we have some measure of agreement on what the real problems are, and, post prop 187, that they’re not going to be solved by blaming brown people.
 
 Even better news is that this is also a possible future scenario for the US, which I’ve been calling the Phillips-Lux-Leyden hypothesis. It’s laid out in Steve Phillips book,
-https://thenewpress.com/books/brown-new-white Brown is the New White, Mike Lux’s article,
-https://www.huffingtonpost.com/mike-lux/darkest-before-the-dawn_b_13606872.html Darkest Before The Dawn, and Pete Leyden’s article, https://medium.com/s/state-of-the-future California Is The Future.
+[Brown is the New White](https://thenewpress.com/books/brown-new-white), Mike Lux’s article,
+[Darkest Before The Dawn](https://www.huffingtonpost.com/mike-lux/darkest-before-the-dawn_b_13606872.html), and Pete Leyden’s series of posts [California Is The Future](https://medium.com/s/state-of-the-future). You should read all of these things! But here’s a summary in a few sentences:
 
-You should read all of these things, they’re important. But here’s a summary in a few sentences:
+> Underlying demographic changes are creating a more diverse country. The Tea Party and now Trump are the backlash to this reality, but lots of times in America’s history, big progress has followed difficult times. A resurgent, diverse and progressive left are starting to build power and lift up elected leaders that are more reflective of that diversity. This new more reflective leadership isn’t sure of it’s agenda yet, but there’s rough agreement that the big problems are - building an economy that works for everyone and not frying the planet - and that racism is the biggest barrier to these goals, but that we have an opening to fix it.
 
-Underlying demographic changes are creating a more diverse country. The Tea Party and now Trump are the backlash to this reality, but lots of times in America’s history, big progress has followed difficult times. A resurgent, diverse and progressive left are starting to build power and lift up elected leaders that are more reflective of that diversity. This new more reflective leadership isn’t sure of it’s agenda yet, but there’s rough agreement that the big problems are - building an economy that works for everyone and not frying the planet - and that racism is the biggest barrier to these goals, but that we have an opening to fix it.
-
-And if you want to be immersed in a fictional taste of what this future would feel like, give part 1 of my novel Venus Shrugged a try. (and the more you share it on social media and write reviews, the faster I will get Part 2 edited!)
+If you want to be immersed in a fictional taste of what this future would feel like, give part 1 of my novel [Venus Shrugged](http://readvenusshrugged.com/) a try. (and the more you share it on social media and write reviews, the faster I will get Part 2 edited!)
 
 This Phillips-Lux-Leyden situation is only an opening. If too many people cling to nonexistent bipartisan chimeras, it’s not going to happen. Racism is really strong, and people are easily manipulated by it. And if the discussions around these issues on my various feeds are any indication, letting go of the belief in bipartisan cooperation as the absolute paragon is not going to be an easy thing to shift.
 
-But big corporations have figured out how to talk about racism. https://medium.com/@danancona/large-corporations-are-grappling-with-racism-and-sexism-in-their-ads-why-are-democrats-afraid-to-ef9794f7708 Surely the Dems can too.
+But big corporations have figured out [how to bridge racism in ads](https://medium.com/@danancona/large-corporations-are-grappling-with-racism-and-sexism-in-their-ads-why-are-democrats-afraid-to-ef9794f7708). It's not that hard. Dems can figure it out too.
+
 
 ## Great! I can sit back and relax because this is all going to happen automatically, right?
 
-NO! Remember, the Phillips-Lux-Leyden thing is a cracked door.
+NO! Remember, the Phillips-Lux-Leyden hypothesis is only the door getting cracked open. It's going to take a lot of effort by a lot of people.
 
-It’s true that we need better, more diverse Dems, and that this year is a big opening. But I live in a blue area and I’m too busy to run anyway so there’s nothing I can do about it. You are WRONG.
+Any time is a really good time to get involved, but right now is a particularly good time. If you’re in a red or purple state, get involved in a campaign, or better yet, the party. I love Indivisible, but (wow, I sound old typing this!) but I’ve been through a couple rounds of seeing organic, internet-led groups, almost always lead by white people rise and fall. And I’m convinced: if you want to make lasting change, join the Democratic Party and work to make it better. Politics is exciting and fun!
 
-Now is a really good time to get involved. If you’re in red or purple state, get involved on the ground with one of these groups, or better yet, the party. I love Indivisible, but (wow, I sound old typing this!) but I’ve been through a couple rounds of seeing organic, internet-led groups, almost always lead by white people rise and fall. And I’m convinced: if you want to make lasting change, join the Democratic Party and work to make it better. Politics is exciting and fun!
+If you’re not, a big barrier to Dems that are willing to take a stand is money - you can take my word for it, or read this [terrific reporting](https://theintercept.com/2018/01/23/dccc-democratic-primaries-congress-progressives/) in The Intercept. Small donations to good democrats are going to make a huge difference this year. If you don’t personally have money, hold a bake sale and invite the media. And as for where to spend the money, it's currently way too hard to figure that out. But stay tuned to [Always Forward](http://alwaysforwardus.com/), because we are working on some tools that will make this at least a bit easier.
 
-If you’re not, the biggest barrier to Dems that are willing to take a stand is money - you can take my word for it, or read this [terrific reporting](https://theintercept.com/2018/01/23/dccc-democratic-primaries-congress-progressives/) in The Intercept. Small donations to good democrats are going to make a huge difference this year. If you don’t personally have money, do a fundraiser.
-
-Go like Always Forward on FB and Twitter or sign up for my email newsletter. Read books. Dream about what you want.
+And keep dreaming about all the nice things you want!
