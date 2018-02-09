@@ -18,9 +18,11 @@ email: da@simplerevolutions.com
 description: > # this means to ignore newlines until "baseurl:"
   Dan Ancona: product designer, organizer and author.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://danancona.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DanAncona
 github_username:  DanAncona
+disqus:
+  shortname: danancona
 
 # Build settings
 markdown: kramdown

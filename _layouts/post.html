@@ -120,9 +120,41 @@
               <div>
                 <hr>
                 <center>
-                  <a href="http://readvenusshrugged.com/"><img src="http://readvenusshrugged.com/images/VenusShrugged-Finalv2-400.png" width="200px"/><br/>Read my book!</a><br/>
+                  <a href="http://readvenusshrugged.com/"><img src="http://readvenusshrugged.com/images/VenusShrugged-Finalv2-400.png" width="200px"/>
+                    <br/>If Venus Shrugged doesn't give you hope, I will give you a refund!</a><br/>
                 </center>
               </div>
+
+              <!--  COMMENTS  -->
+
+              {% if page.comments == true %} <!-- and jekyll.environment == "production" %} -->
+                {% if site.url %}
+                  {% assign disqus_url = page.url | prepend: site.url %}
+                {% elsif site.github.url %}
+                  {% assign disqus_url = page.url | prepend: site.github.url %}
+                {% endif %}
+
+                <hr>
+                <div id="disqus_thread"></div>
+                <script>
+                  var disqus_config = function () {
+                    this.page.url = '{{ disqus_url }}';
+                    this.page.identifier = '{{ page.url }}';
+                  };
+
+                  (function() {
+                    var d = document, s = d.createElement('script');
+
+                    s.src = 'https://{{ site.disqus.shortname }}.disqus.com/embed.js';
+
+                    s.setAttribute('data-timestamp', +new Date());
+                    (d.head || d.body).appendChild(s);
+                  })();
+                </script>
+                <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+              {% endif %}
+
+              <!--  END COMMENTS  -->
 
             </div>
           </div>
