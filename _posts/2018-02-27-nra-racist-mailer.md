@@ -9,8 +9,6 @@ excerpt_separator: <!--more-->
 #categories: todolist meta
 ---
 
-### This NRA Mailer from 2007
-
 The events of the past couple of weeks have reminded me of something. It's a file that I've kept floating around my desktop for years. I think it was orginally published in either BoingBoing or Wired, or both, but I can't find the original links to it. The earliest copy I have in my archives says 2007, so it must have been from around then.
 
 I've kept it hanging around because it's an absolute masterpiece of propaganda. The production values, artwork, storytelling and copywriting all come together in such a beautiful and persuasive way, along with a heaping pile of dog-whistle and just-plain-calling-the-dog racism, Nancy Pelosi hatred, thinly veiled anti-Semitism, fear, othering, fear and more fear.
