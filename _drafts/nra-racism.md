@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  The NRA, Gun Violence and Racism
-subtitle: 
+title:  Ten Years Ago, the NRA Sent Out Millions of Copies of This Brilliant and Pretty Racist Mailer
+subtitle: You'll NEVER Guess What Happened Next. Oy. 
 date:   2018-02-21
 img: /assets/img/blog/nra/NRA-F8_PERILFINAL_1900.jpg
 comments: true
@@ -27,12 +27,12 @@ Give [the whole PDF]({{"/assets/img/blog/nra/NRA-F8_PERILFINAL.pdf" | absolute_u
 
 ### So Many Excuses
 
-I was reminded of this because of a conversation with a friend about guns, and how she finds so many of the pro-gun arguments so eminently reasonable. The NRA spends tens of millions of dollars a year on efforts to soften up otherwise upstanding liberals' willingness to fix this problem. (Their overall yearly budget runs to _a quarter of a billion dollars_, most of it raised directly from the gun manufacturers whose interests they represent far more faithfully than those of individual gun onwers) But they get politicians - Republicans, for sure, but also Democrats that cower before this messaging onslaught - to repeat their messages ad infinitum for them. All that effort buys a lot of real estate in our brains.
+I was reminded of this because of a conversation with a friend about guns, and how she finds so many of the pro-gun arguments so eminently reasonable. The NRA spends tens of millions of dollars a year on efforts to soften up otherwise upstanding liberals' willingness to fix this problem. (Their overall yearly budget runs to _a quarter of a billion dollars_, most of it raised directly from the gun manufacturers whose interests they represent far more faithfully than those of individual gun onwers) But their impact goes far beyond even their bloated budget. They get politicians - Republicans, for sure, but also Democrats that cower before this messaging onslaught - to repeat their messages ad infinitum for them. All that effort buys a lot of real estate in our brains.
 
-It's all lies. There are no good reasons for making military weapons available to heartbroken 19 year olds. There's only an endless, ever expanding list of focus-grouped, poll-tested excuses for not fixing the problem. There's just continuing with the status quo and more dead kids, or there's
+It's all lies. There are no good reasons for making military weapons available to heartbroken 19 year olds. There's only an endless, ever expanding list of cleverly worded, focus-grouped, poll-tested excuses for not fixing the problem. There's just continuing with the status quo and more dead kids, or there's
 [change](http://alwaysforwardus.com/stopmassacres/).
 
-My sense is that like most Americans, most gun owners aren't individually super prejudiced. They probably have higher than average amounts of [sorority racism](https://splinternews.com/sorority-members-are-not-happy-with-chris-rocks-oscars-1793855049). The problem is that their racial fears and resentments can absolutely be played on, like with the mailer above:
+My sense is that like most Americans, most gun owners aren't individually super prejudiced. They probably have higher than average amounts of [sorority racism](https://splinternews.com/sorority-members-are-not-happy-with-chris-rocks-oscars-1793855049). The problem is that their racial fears and resentments can absolutely be played on, like with the mailer above. This summarizes it neatly:
 
 <center>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This ad doesn’t even mention gun owners or gun rights because that’s not what the NRA is about.<br><br>The NRA is about making one half of America believe that the other half of America hates them, so that they’re angry and scared and buy more guns and make gun manufacturers richer.</p>&mdash; Jon Favreau (@jonfavs) <a href="https://twitter.com/jonfavs/status/967830098924650496?ref_src=twsrc%5Etfw">February 25, 2018</a></blockquote>
@@ -66,15 +66,16 @@ In the beginning, according to this myth, Apsu and Tiamat (the sweet- and saltwa
 
 This is from Walter Wink's [Engaging the Powers: Discernment and Resistance in a World of Domination](https://www.amazon.com/dp/B001DIWHKE/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) (p. 14). It's an amazing book. If you haven't read it, now is a great time to.
 
-The Myth of Redemptive Violence underlies an enormous amount of media produced in the US. It's the basic structure of nearly every superhero and action movie. The preponderance of data I've seen seems to indicate that violent media doesn't have much to do with mass shootings. I don't have data on this, other than anecodotally, but it does seem to make fixing the problem a lot harder. Any story a culture tells itself as frequently and as grandly as we tell this one has to have an affect!
+The Myth of Redemptive Violence underlies an enormous amount of media produced in the US. It's the basic structure of nearly every superhero and action movie. The preponderance of data I've seen seems to indicate that violent media doesn't have much to do with mass shootings. That seems accurate to me. What I haven't seen data on, but strongly suspect, is that this onslaught of repetitive storytelling does make fixing the problem a lot harder. Any story a culture tells itself as frequently and as grandly as we tell this one has to have an affect!
 
 
 ### A list of 72 A/A+ NRA Rated Congressional Representatives in Vulnerable Districts
 
-So what to do, in the face of all this opposition? There are only three options: the status quo, making the problem worse (i.e. by arming teachers), or by doing something about it.
+So what to do, in the face of all this opposition? There are only three options: the status quo, making the problem worse (i.e. by arming teachers, probably the most ridiculous response to a tragedy of my lifetime), or we do something about it. The bravery of the survivors seems to be creating an opening for doing someting about it to finally happen.
 
-I think our only option is to stay focused on the basics. The laws are broken. We need to change the laws. The current Congress has clearly indicated its complete inability and unwillingness to do so.
+My belief is we need to stay focused on the fundamentals: The laws are broken, we need to change the laws, the current Congress has clearly indicated its complete inability and unwillingness to do so. It's unpopular to suggest this, I know boycotts are satisfying to a lot of people for various reasons. But boycotting the NRA or any related companies will have at most a marginal effect.
 
-And their opponents, with nice big donate buttons. If you're frustrated and tired of excuses, <a href="http://alwaysforwardus.com/stopmassacres/">please donate to them now</a>.
+We have to vote them out.
 
+Over at Always Forward, I quickly built page of pro-NRA congressional representatives in districts that should winnable this year, with donation links to their opponents. If you're frustrated and tired of excuses, <a href="http://alwaysforwardus.com/stopmassacres/">please donate to them now</a>.
 
