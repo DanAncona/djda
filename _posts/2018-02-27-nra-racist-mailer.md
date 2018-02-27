@@ -5,6 +5,7 @@ subtitle: You'll NEVER Guess What Happened Next.
 date:   2018-02-21
 img: /assets/img/blog/nra/NRA-F8_PERILFINAL_1900.jpg
 comments: true
+excerpt_separator: <!--more-->
 #categories: todolist meta
 ---
 
@@ -13,6 +14,8 @@ comments: true
 The events of the past couple of weeks have reminded me of something. It's a file that I've kept floating around my desktop for years. I think it was orginally published in either BoingBoing or Wired, or both, but I can't find the original links to it. The earliest copy I have in my archives says 2007, so it must have been from around then.
 
 I've kept it hanging around because it's an absolute masterpiece of propaganda. The production values, artwork, storytelling and copywriting all come together in such a beautiful and persuasive way, along with a heaping pile of dog-whistle and just-plain-calling-the-dog racism, Nancy Pelosi hatred, thinly veiled anti-Semitism, fear, othering, fear and more fear.
+
+<!--more-->
 
 [![alt text]({{"/assets/img/blog/nra/NRA-F8_PERILFINAL-9_1900.jpg" | absolute_url}}){:.blogimg}]({{"/assets/img/blog/nra/NRA-F8_PERILFINAL-9_1900.jpg" | absolute_url}})
 <center>Totally not-racist depiction of coincidentally dark figures with molotov cocktails marching up a wrecked street towards a coincidentally white family.</center>{:.caption}
