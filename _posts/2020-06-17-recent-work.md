@@ -51,7 +51,8 @@ _15s Issue-based candidate support, using Race-Class Narrative_
 <iframe width="100%" src="https://www.youtube.com/embed/ynbRh5rPINU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 _For the Many - 2018 Democratic Closing Argument_
-![]({{"/assets/img/blog/2018-combat.png"|absolute_url}}){:.blogimg}
+
+[![]({{"/assets/img/blog/2018-combat.png"|absolute_url}}){:.blogimg}](/assets/img/blog/2018-combat.png){:target="blank"}
 [![]({{"/assets/img/blog/2018-combat-details.png"|absolute_url}}){:.blogimg}](/assets/img/blog/2018-combat-details.png){:target="blank"}
 
 *Results:* The 15s ad flight had mobilization effects in the top 10% of all the content Swayable tested in 2018, and For the Many outperformed both a [soft/gauzy Trump ad](https://www.youtube.com/watch?v=PsBQNfI-Dxw), the very aggressive Trump ad below, and a [beautifully produced Bloomberg produced moderate Dem spot](https://vimeo.com/297197539), and was particularly strong with under 44s. Both the 30s and flight of 15s ads were produced by Haley Jude.
