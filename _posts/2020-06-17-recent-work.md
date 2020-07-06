@@ -55,7 +55,7 @@ _For the Many - 2018 Democratic Closing Argument_
 [![]({{"/assets/img/blog/2018-combat.png"|absolute_url}}){:.blogimg}](/assets/img/blog/2018-combat.png){:target="blank"}
 [![]({{"/assets/img/blog/2018-combat-details.png"|absolute_url}}){:.blogimg}](/assets/img/blog/2018-combat-details.png){:target="blank"}
 
-*Results:* The 15s ad flight had mobilization effects in the top 10% of all the content Swayable tested in 2018, and For the Many outperformed both a [soft/gauzy Trump ad](https://www.youtube.com/watch?v=PsBQNfI-Dxw), the very aggressive Trump ad below, and a [beautifully produced Bloomberg produced moderate Dem spot](https://vimeo.com/297197539), and was particularly strong with under 44s. Both the 30s and flight of 15s ads were produced by Haley Jude.
+*Results:* The 15s ad flight had mobilization effects in the top 10% of all the content Swayable tested in 2018, and For the Many outperformed both a [soft/gauzy Trump ad - Trump ad 1 in the results](https://www.youtube.com/watch?v=PsBQNfI-Dxw), the very aggressive Trump ad below (Trump ad 2), and a [beautifully produced Bloomberg produced moderate Dem spot](https://vimeo.com/297197539), and was particularly strong with under 44s. Both the 30s and flight of 15s ads were produced by Haley Jude.
 
 Relevant to today, this was one of the Trump ads that For the Many outperformed - this argument is substantively similar to the one being offered by the Trump campaign today, as a distrction from their failures on the virus and economy.
 
