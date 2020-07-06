@@ -25,7 +25,7 @@ _More Positive_<br/>
 
 *Overall Results:*
 [![]({{"/assets/img/blog/2020-wtl1-overall.png"|absolute_url}}){:.blogimg}](/assets/img/blog/2020-wtl1-overall.png){:target="blank"}
-My role was script co-author (with Jenifer Ancona) and analytics. All three ads showed statistically significant Biden support effects. _More Negative_ had the only significant positive mobilization score overall of any of the seven ads tested. _More Positive_ had the strongest support and mobilization effects with African American and under 35 segments, although showed some overall backfire effect on Trump coronavirus disapproval.
+My role was script co-author (with Jenifer Ancona) and analytics. All three ads showed statistically significant Biden support effects. _More Negative_ had the only significant positive mobilization score overall of any of the seven ads tested. _More Positive_ had the strongest support and mobilization effects with African American and under 35 segments, although showed some overall backfire effect on Trump coronavirus disapproval. These were produced by the [brilliant, talented, and easy to work with Ted Marsden](https://www.tedmarsden.com/).
 
 
 Justice Dems/Organizing for Justice 2020
