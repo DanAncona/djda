@@ -39,9 +39,10 @@ _Biden Social Security_
 
 *Results:* My role was overall campaign strategy, a lot of copywriting for static ads and the videos, managing the Facebook buy for one of the states, and analysis. We did not have time to complete analytics of the Bloomberg spot, but the SS ad (mainly written by Hector Sigala at Middleseat.co and produced by Ted Marsden) had a -11pt effect on Biden support. We also tried to go after Buttigieg on "choice" in health care and found that it is very tricky messaging terrain. Our news boosting program was the likely partially responsible for a slow decrease in Biden support picked up in tracking polls over two months, however it was not enough, and the rest is history. (and honestly, we're lucky to have him as our nominee) I wrote the Aquariums ad, although the genius "Bloomberg is his own best argument for raising taxes on the rich" line was via [Anat Shenker-Osorio](https://twitter.com/anatosaurus).
 
+<a name="Way2018"></a>
+
 Way to Win 2018
 ---------------
-<a name="Way2018"></a>
 <div class="video-responsive">
 	<iframe width="100%" height="100%" src="https://www.youtube.com/embed/ORGXbubtxOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
