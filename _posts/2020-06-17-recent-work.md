@@ -41,6 +41,7 @@ _Biden Social Security_
 
 Way to Win 2018
 ---------------
+<a name="Way2018"></a>
 <div class="video-responsive">
 	<iframe width="100%" height="100%" src="https://www.youtube.com/embed/ORGXbubtxOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
