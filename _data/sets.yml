@@ -1,5 +1,6 @@
 - title: WHAT'S POSSIBLE
   year: 2020
+  slug: whats-possible
   img: /assets/img/voted.jpg
   date: 13 Sept
   desc: |
@@ -11,7 +12,6 @@
     like two exits down the 580.
   mp3: /sets/02020/WhatsPossible-13Sept02020-djda.mp3
   size: 261
-
 
 - title: STREAM EQUINOX 7
   year: 2020
