@@ -27,9 +27,9 @@ future: true
 
 # Build settings
 markdown: kramdown
-theme: minima
-gems:
-  - jekyll-feed
+#theme: minima
+# gems:
+#   - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -39,11 +39,14 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
+page_gen-dirs: true
 page_gen:
   - data: 'sets'
-    template: 'sets'
+    template: 'aset'
     name: title
     dir: 'djda/sets'
+    index_files: false
+    #debug: true
     #extension: <<extension used to generate the filename>>
     #filter: <<property to filter data records by>>
 
