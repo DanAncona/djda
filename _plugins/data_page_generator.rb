@@ -8,7 +8,6 @@ module Jekyll
   module Sanitizer
     # strip characters and whitespace to create valid filenames, also lowercase
     def sanitize_filename(name)
-      puts "hey #{name}"
       if(name.is_a? Integer)
         return name.to_s
       end
