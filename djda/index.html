@@ -103,13 +103,13 @@ path: /djda
       </div>
 
       <div class="col-lg-3">
-        <p style="margin-bottom: 5px"><a href="https://static.danancona.com/sets/{{set.slug | default: set.title | slugify}}">{{set.title}}</a></p>
+        <p style="margin-bottom: 5px"><a href="/sets/{{set.slug | default: set.title | slugify}}">{{set.title}}</a></p>
         <p style="margin-top: 5px">{{set.date}} {{set.year}}. {{set.desc}}</p>
 
         <div class="ui360">
-         <a href="{{set.mp3}}"></a>
+         <a href="https://static.danancona.com/{{set.mp3}}"></a>
         </div>
-        <a href="{{set.mp3}}">download</a><br/>
+        <a href="https://static.danancona.com/{{set.mp3}}">download</a><br/>
         {% if set.tags %}<sm><i class="icon-tag"></i>{{set.tags}}</sm>{% endif %}
         <br/>
       </div>
