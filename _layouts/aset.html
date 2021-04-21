@@ -118,12 +118,22 @@
       <div class="col-lg-3">
         <p style="margin-bottom: 5px">{{page.title}}</p>
 
-        <div class="ui360">
-         <a href="https://static.danancona.com{{page.mp3}}"></a>
-        </div>
-        <a href="https://static.danancona.com{{page.mp3}}">download</a>{% if page.size %} [{{page.size}} Mb]{% endif %}<br/>
-
         <p style="margin-top: 5px">{{page.date}} {{page.year}} {{page.desc|markdownify}}</p>
+
+        {% if page.mp3 %}
+          <div class="ui360">
+           <a href="https://static.danancona.com{{page.mp3}}"></a>
+          </div>
+          <a href="https://static.danancona.com{{page.mp3}}">download</a><br/>
+          {% if page.size %} [{{page.size}} Mb]{% endif %}<br/>
+        {% endif %}
+
+        {% for mp3 in page.mp3list %}
+          <div class="ui360">
+           <a href="https://static.danancona.com{{mp3}}"></a>
+          </div>
+          <a href="https://static.danancona.com{{mp3}}">download part {{forloop.index}}</a><br/>
+        {% endfor %}
 
         {% if page.tags %}<sm><i class="icon-tag"></i>{{page.tags}}</sm>{% endif %}
       </div>
