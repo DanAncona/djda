@@ -38,6 +38,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+include: ['.htaccess']
 
 page_gen-dirs: true
 page_gen:
