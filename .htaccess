@@ -1,4 +1,4 @@
-SetEnvIfNoCase Request_URI ^/tvcongress SECURED
+SetEnvIfNoCase Request_URI "^/tvcongress" SECURED
 
 AuthName "Restricted Area"
 AuthType Basic
