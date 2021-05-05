@@ -1,12 +1,4 @@
-SetEnvIfNoCase Request_URI "^/tvcongress" SECURED
-
-AuthName "Restricted Area"
 AuthType Basic
+AuthName "Password Protected Area"
 AuthUserFile /home/da/.htpasswd
-AuthGroupFile /
 Require valid-user
-
-Satisfy    any
-Order      Allow,Deny
-Allow from all
-Deny from env=SECURED
