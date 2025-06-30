@@ -134,8 +134,8 @@
           </div>
           <a href="https://static.danancona.com{{mp3}}">download part {{forloop.index}}</a><br/>
         {% endfor %}
-
-        {% if page.tags %}<sm><i class="icon-tag"></i>{{page.tags}}</sm>{% endif %}
+        {% if page.setlist %}<a href="./{{page.setlist}}">set list</a><br/>{% endif %}
+        {% if page.tags %}<sm><i class="icon-tag"></i> {{page.tags}}</sm>{% endif %}
       </div>
     </div>
 

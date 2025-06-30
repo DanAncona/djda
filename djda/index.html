@@ -104,13 +104,14 @@ path: /djda
 
       <div class="col-lg-3">
         <p style="margin-bottom: 5px"><a href="/djda/sets/{{set.slug | default: set.title | slugify}}">{{set.title}}</a></p>
-        <p style="margin-top: 5px">{{set.date}} {{set.year}}. {{set.desc}}</p>
+        <p style="margin-top: 5px; margin-bottom: 5px;">{{set.date}} {{set.year}}. {{set.desc}}<br/>
+        </p>
 
         {% if set.mp3 %}
         <div class="ui360">
          <a href="https://static.danancona.com{{set.mp3}}"></a>
         </div>
-        <a href="https://static.danancona.com{{set.mp3}}">download</a><br/>
+        <a href="https://static.danancona.com{{set.mp3}}">download mp3</a><br/>
         {% endif %}
 
         {% for mp3 in set.mp3list %}
@@ -119,7 +120,8 @@ path: /djda
           </div>
           <a href="https://static.danancona.com{{mp3}}">download part {{forloop.index}}</a><br/>
         {% endfor %}
-        {% if set.tags %}<sm><i class="icon-tag"></i>{{set.tags}}</sm>{% endif %}
+        {% if set.setlist %}<a href="./{{set.setlist}}">set list</a><br/>{% endif %}
+        {% if set.tags %}<sm><i class="icon-tag"></i> {{set.tags}}</sm>{% endif %}
         <br/>
       </div>
     </div>
